@@ -1,0 +1,4 @@
+/bin/ls -alth '/'
+/bin/ls  '/'
+
+This command should not be recognized, cause it goes after empty line
